@@ -1,0 +1,36 @@
+.body {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.info {
+    background-color: #F1F1F1;
+    width: 100%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.heading {
+    color: #2E7AD3;
+    font-size: 48px;
+    text-align: center;
+    margin:45px 0px;
+}
+
+.shead {
+    color: #104c90;
+    font-size: 32px;
+}
+
+.image {
+    text-align: center;
+    width:100%;
+}
+a {
+    color: #FF8000;
+}
+
+.content {
+    width: 98%;
+    margin: 0 auto
+}
